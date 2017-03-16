@@ -894,7 +894,7 @@ HAVING        (ppc.Name = 'Clothing')</CommandText>
               <Paragraph>
                 <TextRuns>
                   <TextRun>
-                    <Value>test1</Value>
+                    <Value>test12</Value>
                     <Style />
                   </TextRun>
                 </TextRuns>
